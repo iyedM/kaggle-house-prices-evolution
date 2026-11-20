@@ -1,0 +1,1690 @@
+{
+  "collected_at_utc": "2026-11-20T16:14:22Z",
+  "competition_slug": "house-prices-advanced-regression-techniques",
+  "competition_id": 5407,
+  "user_agent": "kaggle-house-prices-evolution/0.1 (academic research mini-project; python-requests)",
+  "selection_criteria": {
+    "sort_by": "VOTE_COUNT",
+    "min_valid_python_versions": 3,
+    "target_notebooks": 6,
+    "max_versions_sampled_per_notebook": 8
+  },
+  "notebooks_count": 6,
+  "notebooks": [
+    {
+      "kernel_id": 186062,
+      "slug": "pmarcelino__comprehensive-data-exploration-with-python",
+      "author_username": "pmarcelino",
+      "author_display_name": "Pedro Marcelino, PhD",
+      "kaggle_url": "https://www.kaggle.com/code/pmarcelino/comprehensive-data-exploration-with-python",
+      "license": "Apache-2.0",
+      "title": "Comprehensive data exploration with Python",
+      "total_votes_at_collection": 33739,
+      "raw_versions_returned_by_kaggle": 80,
+      "valid_python_versions_count": 80,
+      "sampled_snapshots_count": 8,
+      "all_python_revisions": [
+        {
+          "version_number": 1,
+          "script_version_id": 877961,
+          "date_created": "2017-02-16T10:36:32.647Z"
+        },
+        {
+          "version_number": 2,
+          "script_version_id": 878507,
+          "date_created": "2017-02-16T12:45:28.483Z"
+        },
+        {
+          "version_number": 3,
+          "script_version_id": 879183,
+          "date_created": "2017-02-16T15:19:46.750Z"
+        },
+        {
+          "version_number": 4,
+          "script_version_id": 879393,
+          "date_created": "2017-02-16T16:01:27.190Z"
+        },
+        {
+          "version_number": 5,
+          "script_version_id": 879421,
+          "date_created": "2017-02-16T16:06:10.960Z"
+        },
+        {
+          "version_number": 6,
+          "script_version_id": 1121927,
+          "date_created": "2017-05-01T17:58:13.593Z"
+        },
+        {
+          "version_number": 7,
+          "script_version_id": 1152613,
+          "date_created": "2017-05-12T07:35:34.047Z"
+        },
+        {
+          "version_number": 8,
+          "script_version_id": 1170147,
+          "date_created": "2017-05-19T07:16:21.987Z"
+        },
+        {
+          "version_number": 9,
+          "script_version_id": 1170148,
+          "date_created": "2017-05-19T07:16:34.880Z"
+        },
+        {
+          "version_number": 10,
+          "script_version_id": 1187854,
+          "date_created": "2017-05-26T07:39:57.127Z"
+        },
+        {
+          "version_number": 11,
+          "script_version_id": 1208352,
+          "date_created": "2017-06-02T07:19:09.400Z"
+        },
+        {
+          "version_number": 12,
+          "script_version_id": 1274535,
+          "date_created": "2017-06-23T07:30:56.393Z"
+        },
+        {
+          "version_number": 13,
+          "script_version_id": 1317948,
+          "date_created": "2017-07-07T07:05:07.587Z"
+        },
+        {
+          "version_number": 14,
+          "script_version_id": 1340833,
+          "date_created": "2017-07-14T09:19:03.140Z"
+        },
+        {
+          "version_number": 15,
+          "script_version_id": 1382619,
+          "date_created": "2017-07-28T07:32:38.873Z"
+        },
+        {
+          "version_number": 16,
+          "script_version_id": 1402001,
+          "date_created": "2017-08-04T07:05:51.393Z"
+        },
+        {
+          "version_number": 17,
+          "script_version_id": 1421182,
+          "date_created": "2017-08-11T09:19:39.053Z"
+        },
+        {
+          "version_number": 18,
+          "script_version_id": 1421185,
+          "date_created": "2017-08-11T09:20:04.273Z"
+        },
+        {
+          "version_number": 19,
+          "script_version_id": 1432348,
+          "date_created": "2017-08-16T09:16:28.380Z"
+        },
+        {
+          "version_number": 20,
+          "script_version_id": 1454984,
+          "date_created": "2017-08-25T07:23:05.057Z"
+        },
+        {
+          "version_number": 21,
+          "script_version_id": 1470764,
+          "date_created": "2017-08-31T20:20:03.480Z"
+        },
+        {
+          "version_number": 22,
+          "script_version_id": 1489140,
+          "date_created": "2017-09-08T08:04:26.497Z"
+        },
+        {
+          "version_number": 23,
+          "script_version_id": 1509939,
+          "date_created": "2017-09-15T08:04:21.920Z"
+        },
+        {
+          "version_number": 24,
+          "script_version_id": 1528737,
+          "date_created": "2017-09-22T08:40:17.303Z"
+        },
+        {
+          "version_number": 25,
+          "script_version_id": 1553017,
+          "date_created": "2017-09-30T06:58:16.417Z"
+        },
+        {
+          "version_number": 26,
+          "script_version_id": 1553025,
+          "date_created": "2017-09-30T07:02:45.140Z"
+        },
+        {
+          "version_number": 27,
+          "script_version_id": 1607923,
+          "date_created": "2017-10-13T14:30:47.683Z"
+        },
+        {
+          "version_number": 28,
+          "script_version_id": 1630291,
+          "date_created": "2017-10-19T08:09:13.160Z"
+        },
+        {
+          "version_number": 29,
+          "script_version_id": 1630295,
+          "date_created": "2017-10-19T08:09:49.890Z"
+        },
+        {
+          "version_number": 30,
+          "script_version_id": 1700573,
+          "date_created": "2017-11-03T08:17:13.153Z"
+        },
+        {
+          "version_number": 31,
+          "script_version_id": 1732645,
+          "date_created": "2017-11-10T09:05:23.823Z"
+        },
+        {
+          "version_number": 32,
+          "script_version_id": 1765188,
+          "date_created": "2017-11-17T09:20:10.443Z"
+        },
+        {
+          "version_number": 33,
+          "script_version_id": 1765190,
+          "date_created": "2017-11-17T09:21:11.683Z"
+        },
+        {
+          "version_number": 34,
+          "script_version_id": 1765213,
+          "date_created": "2017-11-17T09:25:23.963Z"
+        },
+        {
+          "version_number": 35,
+          "script_version_id": 1799831,
+          "date_created": "2017-11-24T09:40:33.470Z"
+        },
+        {
+          "version_number": 36,
+          "script_version_id": 1893248,
+          "date_created": "2017-12-07T11:29:20.763Z"
+        },
+        {
+          "version_number": 37,
+          "script_version_id": 1948236,
+          "date_created": "2017-12-15T08:23:34.533Z"
+        },
+        {
+          "version_number": 38,
+          "script_version_id": 1995341,
+          "date_created": "2017-12-22T09:47:54.773Z"
+        },
+        {
+          "version_number": 39,
+          "script_version_id": 2038858,
+          "date_created": "2017-12-29T12:35:14.143Z"
+        },
+        {
+          "version_number": 40,
+          "script_version_id": 2080708,
+          "date_created": "2018-01-05T08:36:43.287Z"
+        },
+        {
+          "version_number": 41,
+          "script_version_id": 2128904,
+          "date_created": "2018-01-12T08:23:57.177Z"
+        },
+        {
+          "version_number": 42,
+          "script_version_id": 2183339,
+          "date_created": "2018-01-19T08:29:11.450Z"
+        },
+        {
+          "version_number": 43,
+          "script_version_id": 2248830,
+          "date_created": "2018-01-26T13:01:16.660Z"
+        },
+        {
+          "version_number": 44,
+          "script_version_id": 2326116,
+          "date_created": "2018-02-03T12:37:40.993Z"
+        },
+        {
+          "version_number": 45,
+          "script_version_id": 2408414,
+          "date_created": "2018-02-09T09:05:38.653Z"
+        },
+        {
+          "version_number": 46,
+          "script_version_id": 2550633,
+          "date_created": "2018-02-16T09:05:16.377Z"
+        },
+        {
+          "version_number": 47,
+          "script_version_id": 2613726,
+          "date_created": "2018-02-23T08:24:37.203Z"
+        },
+        {
+          "version_number": 48,
+          "script_version_id": 2676611,
+          "date_created": "2018-03-02T08:50:14.870Z"
+        },
+        {
+          "version_number": 49,
+          "script_version_id": 2745417,
+          "date_created": "2018-03-09T07:36:42.053Z"
+        },
+        {
+          "version_number": 50,
+          "script_version_id": 2745458,
+          "date_created": "2018-03-09T07:41:10.223Z"
+        },
+        {
+          "version_number": 51,
+          "script_version_id": 2745535,
+          "date_created": "2018-03-09T07:49:18.320Z"
+        },
+        {
+          "version_number": 52,
+          "script_version_id": 2745662,
+          "date_created": "2018-03-09T08:04:13.133Z"
+        },
+        {
+          "version_number": 53,
+          "script_version_id": 2747526,
+          "date_created": "2018-03-09T12:00:04.707Z"
+        },
+        {
+          "version_number": 54,
+          "script_version_id": 2823154,
+          "date_created": "2018-03-16T06:42:17.843Z"
+        },
+        {
+          "version_number": 55,
+          "script_version_id": 2823186,
+          "date_created": "2018-03-16T06:45:31.890Z"
+        },
+        {
+          "version_number": 56,
+          "script_version_id": 2824822,
+          "date_created": "2018-03-16T09:53:18.703Z"
+        },
+        {
+          "version_number": 57,
+          "script_version_id": 2824886,
+          "date_created": "2018-03-16T10:00:17.630Z"
+        },
+        {
+          "version_number": 58,
+          "script_version_id": 2824897,
+          "date_created": "2018-03-16T10:01:51.553Z"
+        },
+        {
+          "version_number": 59,
+          "script_version_id": 2888668,
+          "date_created": "2018-03-22T09:11:35.173Z"
+        },
+        {
+          "version_number": 60,
+          "script_version_id": 2987439,
+          "date_created": "2018-03-29T07:31:49.720Z"
+        },
+        {
+          "version_number": 61,
+          "script_version_id": 2987461,
+          "date_created": "2018-03-29T07:33:39.487Z"
+        },
+        {
+          "version_number": 62,
+          "script_version_id": 3123055,
+          "date_created": "2018-04-09T08:51:58.810Z"
+        },
+        {
+          "version_number": 63,
+          "script_version_id": 3381115,
+          "date_created": "2018-04-27T08:12:17.380Z"
+        },
+        {
+          "version_number": 64,
+          "script_version_id": 3946750,
+          "date_created": "2018-06-08T07:30:44.417Z"
+        },
+        {
+          "version_number": 65,
+          "script_version_id": 3952153,
+          "date_created": "2018-06-08T15:37:48.187Z"
+        },
+        {
+          "version_number": 66,
+          "script_version_id": 4087164,
+          "date_created": "2018-06-15T07:51:40.123Z"
+        },
+        {
+          "version_number": 67,
+          "script_version_id": 4443019,
+          "date_created": "2018-07-06T08:23:24.837Z"
+        },
+        {
+          "version_number": 68,
+          "script_version_id": 4894051,
+          "date_created": "2018-08-03T07:16:48.463Z"
+        },
+        {
+          "version_number": 69,
+          "script_version_id": 5426099,
+          "date_created": "2018-08-31T07:09:29.047Z"
+        },
+        {
+          "version_number": 70,
+          "script_version_id": 5701181,
+          "date_created": "2018-09-14T09:14:51.320Z"
+        },
+        {
+          "version_number": 71,
+          "script_version_id": 6492763,
+          "date_created": "2018-10-15T07:39:00.640Z"
+        },
+        {
+          "version_number": 72,
+          "script_version_id": 7211745,
+          "date_created": "2018-11-09T08:36:18.567Z"
+        },
+        {
+          "version_number": 73,
+          "script_version_id": 8544318,
+          "date_created": "2018-12-17T08:42:52.093Z"
+        },
+        {
+          "version_number": 74,
+          "script_version_id": 9442298,
+          "date_created": "2019-01-11T09:04:55.733Z"
+        },
+        {
+          "version_number": 75,
+          "script_version_id": 10361076,
+          "date_created": "2019-02-08T08:42:40.063Z"
+        },
+        {
+          "version_number": 76,
+          "script_version_id": 11308339,
+          "date_created": "2019-03-08T09:30:57.217Z"
+        },
+        {
+          "version_number": 77,
+          "script_version_id": 14287012,
+          "date_created": "2019-05-17T07:30:48.917Z"
+        },
+        {
+          "version_number": 78,
+          "script_version_id": 19403046,
+          "date_created": "2019-08-23T08:19:01.507Z"
+        },
+        {
+          "version_number": 79,
+          "script_version_id": 94433033,
+          "date_created": "2022-04-30T19:19:05.447Z"
+        },
+        {
+          "version_number": 80,
+          "script_version_id": 94433095,
+          "date_created": "2022-04-30T19:20:33.173Z"
+        }
+      ],
+      "versions": [
+        {
+          "version_number": 1,
+          "script_version_id": 877961,
+          "date_created": "2017-02-16T10:36:32.647Z",
+          "lines_total_kaggle": 459,
+          "lines_inserted_kaggle": 459,
+          "lines_deleted_kaggle": null,
+          "runtime_seconds": null,
+          "local_path": "notebooks/pmarcelino__comprehensive-data-exploration-with-python/v001_877961.ipynb",
+          "sha256": "527b33edaec6b1994a9fa550a302b9f19720489efe493cf679cf887a5f5c283b"
+        },
+        {
+          "version_number": 12,
+          "script_version_id": 1274535,
+          "date_created": "2017-06-23T07:30:56.393Z",
+          "lines_total_kaggle": 457,
+          "lines_inserted_kaggle": null,
+          "lines_deleted_kaggle": null,
+          "runtime_seconds": null,
+          "local_path": "notebooks/pmarcelino__comprehensive-data-exploration-with-python/v012_1274535.ipynb",
+          "sha256": "56bf49e3429d71e783a3f467b9a92203fb7ebb15cdbc6758408484830de056ba"
+        },
+        {
+          "version_number": 24,
+          "script_version_id": 1528737,
+          "date_created": "2017-09-22T08:40:17.303Z",
+          "lines_total_kaggle": 457,
+          "lines_inserted_kaggle": null,
+          "lines_deleted_kaggle": null,
+          "runtime_seconds": null,
+          "local_path": "notebooks/pmarcelino__comprehensive-data-exploration-with-python/v024_1528737.ipynb",
+          "sha256": "b214456505c0e555fef577c59f0bd70827e2ffb0020d7a49bf482f45d373accc"
+        },
+        {
+          "version_number": 35,
+          "script_version_id": 1799831,
+          "date_created": "2017-11-24T09:40:33.470Z",
+          "lines_total_kaggle": 457,
+          "lines_inserted_kaggle": null,
+          "lines_deleted_kaggle": null,
+          "runtime_seconds": null,
+          "local_path": "notebooks/pmarcelino__comprehensive-data-exploration-with-python/v035_1799831.ipynb",
+          "sha256": "e19837099fd0374622c8c31f366bd85bf3ba8ee7d5af9c42e4b6efabdbb23f5c"
+        },
+        {
+          "version_number": 46,
+          "script_version_id": 2550633,
+          "date_created": "2018-02-16T09:05:16.377Z",
+          "lines_total_kaggle": 457,
+          "lines_inserted_kaggle": null,
+          "lines_deleted_kaggle": null,
+          "runtime_seconds": null,
+          "local_path": "notebooks/pmarcelino__comprehensive-data-exploration-with-python/v046_2550633.ipynb",
+          "sha256": "41851d02141f372ed19d81084f87e03f1838617d444288987998346163335611"
+        },
+        {
+          "version_number": 57,
+          "script_version_id": 2824886,
+          "date_created": "2018-03-16T10:00:17.630Z",
+          "lines_total_kaggle": 458,
+          "lines_inserted_kaggle": null,
+          "lines_deleted_kaggle": null,
+          "runtime_seconds": null,
+          "local_path": "notebooks/pmarcelino__comprehensive-data-exploration-with-python/v057_2824886.ipynb",
+          "sha256": "43e14559eb496e045ae830b58d33a154564c4253966532a1110808249e412aa7"
+        },
+        {
+          "version_number": 69,
+          "script_version_id": 5426099,
+          "date_created": "2018-08-31T07:09:29.047Z",
+          "lines_total_kaggle": 461,
+          "lines_inserted_kaggle": null,
+          "lines_deleted_kaggle": null,
+          "runtime_seconds": null,
+          "local_path": "notebooks/pmarcelino__comprehensive-data-exploration-with-python/v069_5426099.ipynb",
+          "sha256": "4bb89d130b14df9e7d71f4bfcd3d68329b3ee24f61fe9c7b38664f42e0dac82e"
+        },
+        {
+          "version_number": 80,
+          "script_version_id": 94433095,
+          "date_created": "2022-04-30T19:20:33.173Z",
+          "lines_total_kaggle": 465,
+          "lines_inserted_kaggle": null,
+          "lines_deleted_kaggle": 2,
+          "runtime_seconds": null,
+          "local_path": "notebooks/pmarcelino__comprehensive-data-exploration-with-python/v080_94433095.ipynb",
+          "sha256": "f1978de9e72687f1d6762668c939914ea4aa3609542199302bfa0646cd37646d"
+        }
+      ]
+    },
+    {
+      "kernel_id": 314923,
+      "slug": "serigne__stacked-regressions-top-4-on-leaderboard",
+      "author_username": "serigne",
+      "author_display_name": "Serigne ",
+      "kaggle_url": "https://www.kaggle.com/code/serigne/stacked-regressions-top-4-on-leaderboard",
+      "license": "Apache-2.0",
+      "title": "Stacked Regressions : Top 4% on LeaderBoard",
+      "total_votes_at_collection": 14394,
+      "raw_versions_returned_by_kaggle": 60,
+      "valid_python_versions_count": 60,
+      "sampled_snapshots_count": 8,
+      "all_python_revisions": [
+        {
+          "version_number": 1,
+          "script_version_id": 1355810,
+          "date_created": "2017-07-19T13:41:25.430Z"
+        },
+        {
+          "version_number": 2,
+          "script_version_id": 1356279,
+          "date_created": "2017-07-19T17:21:25.107Z"
+        },
+        {
+          "version_number": 3,
+          "script_version_id": 1356326,
+          "date_created": "2017-07-19T17:42:18.180Z"
+        },
+        {
+          "version_number": 4,
+          "script_version_id": 1356347,
+          "date_created": "2017-07-19T17:53:43.083Z"
+        },
+        {
+          "version_number": 5,
+          "script_version_id": 1356378,
+          "date_created": "2017-07-19T18:05:16.693Z"
+        },
+        {
+          "version_number": 6,
+          "script_version_id": 1356405,
+          "date_created": "2017-07-19T18:14:25.300Z"
+        },
+        {
+          "version_number": 7,
+          "script_version_id": 1356418,
+          "date_created": "2017-07-19T18:18:09.513Z"
+        },
+        {
+          "version_number": 8,
+          "script_version_id": 1356610,
+          "date_created": "2017-07-19T19:59:05.960Z"
+        },
+        {
+          "version_number": 9,
+          "script_version_id": 1356659,
+          "date_created": "2017-07-19T20:32:15.987Z"
+        },
+        {
+          "version_number": 10,
+          "script_version_id": 1356715,
+          "date_created": "2017-07-19T20:50:04.893Z"
+        },
+        {
+          "version_number": 11,
+          "script_version_id": 1356752,
+          "date_created": "2017-07-19T21:06:02.013Z"
+        },
+        {
+          "version_number": 12,
+          "script_version_id": 1356823,
+          "date_created": "2017-07-19T21:50:03.720Z"
+        },
+        {
+          "version_number": 13,
+          "script_version_id": 1356892,
+          "date_created": "2017-07-19T22:19:07.730Z"
+        },
+        {
+          "version_number": 14,
+          "script_version_id": 1357115,
+          "date_created": "2017-07-20T00:06:12.430Z"
+        },
+        {
+          "version_number": 15,
+          "script_version_id": 1357145,
+          "date_created": "2017-07-20T00:22:11.583Z"
+        },
+        {
+          "version_number": 16,
+          "script_version_id": 1357171,
+          "date_created": "2017-07-20T00:39:07.687Z"
+        },
+        {
+          "version_number": 17,
+          "script_version_id": 1357173,
+          "date_created": "2017-07-20T00:40:33.550Z"
+        },
+        {
+          "version_number": 18,
+          "script_version_id": 1357191,
+          "date_created": "2017-07-20T00:59:08.980Z"
+        },
+        {
+          "version_number": 19,
+          "script_version_id": 1357307,
+          "date_created": "2017-07-20T02:09:11.650Z"
+        },
+        {
+          "version_number": 20,
+          "script_version_id": 1357354,
+          "date_created": "2017-07-20T02:30:52.630Z"
+        },
+        {
+          "version_number": 21,
+          "script_version_id": 1357372,
+          "date_created": "2017-07-20T02:43:09.260Z"
+        },
+        {
+          "version_number": 22,
+          "script_version_id": 1357384,
+          "date_created": "2017-07-20T02:48:04.037Z"
+        },
+        {
+          "version_number": 23,
+          "script_version_id": 1357446,
+          "date_created": "2017-07-20T03:26:07.640Z"
+        },
+        {
+          "version_number": 24,
+          "script_version_id": 1357508,
+          "date_created": "2017-07-20T03:51:42.303Z"
+        },
+        {
+          "version_number": 25,
+          "script_version_id": 1387869,
+          "date_created": "2017-07-30T08:35:28.510Z"
+        },
+        {
+          "version_number": 26,
+          "script_version_id": 1387927,
+          "date_created": "2017-07-30T09:08:47.613Z"
+        },
+        {
+          "version_number": 27,
+          "script_version_id": 1387982,
+          "date_created": "2017-07-30T09:49:58.850Z"
+        },
+        {
+          "version_number": 28,
+          "script_version_id": 1388069,
+          "date_created": "2017-07-30T10:36:58.773Z"
+        },
+        {
+          "version_number": 29,
+          "script_version_id": 1430779,
+          "date_created": "2017-08-15T17:54:57.887Z"
+        },
+        {
+          "version_number": 30,
+          "script_version_id": 1430803,
+          "date_created": "2017-08-15T18:05:15.980Z"
+        },
+        {
+          "version_number": 31,
+          "script_version_id": 1433026,
+          "date_created": "2017-08-16T14:14:54.773Z"
+        },
+        {
+          "version_number": 32,
+          "script_version_id": 1433085,
+          "date_created": "2017-08-16T14:37:11.040Z"
+        },
+        {
+          "version_number": 33,
+          "script_version_id": 1433965,
+          "date_created": "2017-08-16T22:35:54.203Z"
+        },
+        {
+          "version_number": 34,
+          "script_version_id": 1436651,
+          "date_created": "2017-08-17T19:50:19.093Z"
+        },
+        {
+          "version_number": 35,
+          "script_version_id": 1436678,
+          "date_created": "2017-08-17T20:03:25.097Z"
+        },
+        {
+          "version_number": 36,
+          "script_version_id": 1436710,
+          "date_created": "2017-08-17T20:23:27.813Z"
+        },
+        {
+          "version_number": 37,
+          "script_version_id": 1440344,
+          "date_created": "2017-08-19T11:03:46.460Z"
+        },
+        {
+          "version_number": 38,
+          "script_version_id": 1456157,
+          "date_created": "2017-08-25T18:46:05.023Z"
+        },
+        {
+          "version_number": 39,
+          "script_version_id": 1456507,
+          "date_created": "2017-08-25T22:01:08.230Z"
+        },
+        {
+          "version_number": 40,
+          "script_version_id": 1459325,
+          "date_created": "2017-08-27T12:18:44.007Z"
+        },
+        {
+          "version_number": 41,
+          "script_version_id": 1459716,
+          "date_created": "2017-08-27T16:29:52.513Z"
+        },
+        {
+          "version_number": 42,
+          "script_version_id": 1459778,
+          "date_created": "2017-08-27T17:12:49.410Z"
+        },
+        {
+          "version_number": 43,
+          "script_version_id": 1459826,
+          "date_created": "2017-08-27T17:47:00.660Z"
+        },
+        {
+          "version_number": 44,
+          "script_version_id": 1459943,
+          "date_created": "2017-08-27T18:57:29.607Z"
+        },
+        {
+          "version_number": 45,
+          "script_version_id": 1460370,
+          "date_created": "2017-08-27T22:53:01.417Z"
+        },
+        {
+          "version_number": 46,
+          "script_version_id": 1460400,
+          "date_created": "2017-08-27T23:26:56.957Z"
+        },
+        {
+          "version_number": 47,
+          "script_version_id": 1460660,
+          "date_created": "2017-08-28T02:16:02.493Z"
+        },
+        {
+          "version_number": 48,
+          "script_version_id": 1460679,
+          "date_created": "2017-08-28T02:37:04.247Z"
+        },
+        {
+          "version_number": 49,
+          "script_version_id": 1460728,
+          "date_created": "2017-08-28T03:16:33.650Z"
+        },
+        {
+          "version_number": 50,
+          "script_version_id": 1461305,
+          "date_created": "2017-08-28T09:30:48.747Z"
+        },
+        {
+          "version_number": 51,
+          "script_version_id": 1472056,
+          "date_created": "2017-09-01T10:35:19.520Z"
+        },
+        {
+          "version_number": 52,
+          "script_version_id": 1475866,
+          "date_created": "2017-09-03T07:13:47.970Z"
+        },
+        {
+          "version_number": 53,
+          "script_version_id": 1475890,
+          "date_created": "2017-09-03T07:32:03.793Z"
+        },
+        {
+          "version_number": 54,
+          "script_version_id": 1489968,
+          "date_created": "2017-09-08T13:56:38.933Z"
+        },
+        {
+          "version_number": 55,
+          "script_version_id": 1502048,
+          "date_created": "2017-09-13T00:37:59.230Z"
+        },
+        {
+          "version_number": 56,
+          "script_version_id": 1531338,
+          "date_created": "2017-09-23T10:04:27.157Z"
+        },
+        {
+          "version_number": 57,
+          "script_version_id": 1577987,
+          "date_created": "2017-10-06T15:56:21.017Z"
+        },
+        {
+          "version_number": 58,
+          "script_version_id": 1685024,
+          "date_created": "2017-10-31T07:55:46.037Z"
+        },
+        {
+          "version_number": 59,
+          "script_version_id": 1789926,
+          "date_created": "2017-11-22T19:35:02.190Z"
+        },
+        {
+          "version_number": 60,
+          "script_version_id": 1955054,
+          "date_created": "2017-12-16T11:57:09.870Z"
+        }
+      ],
+      "versions": [
+        {
+          "version_number": 1,
+          "script_version_id": 1355810,
+          "date_created": "2017-07-19T13:41:25.430Z",
+          "lines_total_kaggle": 627,
+          "lines_inserted_kaggle": 627,
+          "lines_deleted_kaggle": null,
+          "runtime_seconds": null,
+          "local_path": "notebooks/serigne__stacked-regressions-top-4-on-leaderboard/v001_1355810.ipynb",
+          "sha256": "5ff00be60cd01e7e3dc30b0cbf3c893c681f481c4c21ec1b8ae7d08f0db4c9f8"
+        },
+        {
+          "version_number": 9,
+          "script_version_id": 1356659,
+          "date_created": "2017-07-19T20:32:15.987Z",
+          "lines_total_kaggle": 631,
+          "lines_inserted_kaggle": 2,
+          "lines_deleted_kaggle": 2,
+          "runtime_seconds": null,
+          "local_path": "notebooks/serigne__stacked-regressions-top-4-on-leaderboard/v009_1356659.ipynb",
+          "sha256": "157ff8c8e9dac08e6f5acba6b072db74550dfb356483bceff390940b988d2fd1"
+        },
+        {
+          "version_number": 18,
+          "script_version_id": 1357191,
+          "date_created": "2017-07-20T00:59:08.980Z",
+          "lines_total_kaggle": 631,
+          "lines_inserted_kaggle": null,
+          "lines_deleted_kaggle": null,
+          "runtime_seconds": null,
+          "local_path": "notebooks/serigne__stacked-regressions-top-4-on-leaderboard/v018_1357191.ipynb",
+          "sha256": "4de6226b6a3f91a36afc3c5b54f361383f82bae887c6abc5996139c4f4f9cdb5"
+        },
+        {
+          "version_number": 26,
+          "script_version_id": 1387927,
+          "date_created": "2017-07-30T09:08:47.613Z",
+          "lines_total_kaggle": 657,
+          "lines_inserted_kaggle": 2,
+          "lines_deleted_kaggle": 2,
+          "runtime_seconds": null,
+          "local_path": "notebooks/serigne__stacked-regressions-top-4-on-leaderboard/v026_1387927.ipynb",
+          "sha256": "a51d9d79169abb7715faf9972dc3a3d4216b7d094b326bb0a74fc99d76ef554d"
+        },
+        {
+          "version_number": 35,
+          "script_version_id": 1436678,
+          "date_created": "2017-08-17T20:03:25.097Z",
+          "lines_total_kaggle": 663,
+          "lines_inserted_kaggle": null,
+          "lines_deleted_kaggle": null,
+          "runtime_seconds": null,
+          "local_path": "notebooks/serigne__stacked-regressions-top-4-on-leaderboard/v035_1436678.ipynb",
+          "sha256": "5d556d8f4d8424f8c31deff635ab7f669fbb6b66e20caae41bf07003afec4fbe"
+        },
+        {
+          "version_number": 43,
+          "script_version_id": 1459826,
+          "date_created": "2017-08-27T17:47:00.660Z",
+          "lines_total_kaggle": 677,
+          "lines_inserted_kaggle": 2,
+          "lines_deleted_kaggle": 4,
+          "runtime_seconds": null,
+          "local_path": "notebooks/serigne__stacked-regressions-top-4-on-leaderboard/v043_1459826.ipynb",
+          "sha256": "300ebd16f7b43d9af7379e65067700f681db6603eb3cc2060db17dad71dcbf4a"
+        },
+        {
+          "version_number": 52,
+          "script_version_id": 1475866,
+          "date_created": "2017-09-03T07:13:47.970Z",
+          "lines_total_kaggle": 715,
+          "lines_inserted_kaggle": 1,
+          "lines_deleted_kaggle": 1,
+          "runtime_seconds": null,
+          "local_path": "notebooks/serigne__stacked-regressions-top-4-on-leaderboard/v052_1475866.ipynb",
+          "sha256": "b277e74d213066f926fd31ff830b45a42fc3a8e7ee8e885f06b11140277a7878"
+        },
+        {
+          "version_number": 60,
+          "script_version_id": 1955054,
+          "date_created": "2017-12-16T11:57:09.870Z",
+          "lines_total_kaggle": 709,
+          "lines_inserted_kaggle": null,
+          "lines_deleted_kaggle": null,
+          "runtime_seconds": null,
+          "local_path": "notebooks/serigne__stacked-regressions-top-4-on-leaderboard/v060_1955054.ipynb",
+          "sha256": "85e236adcedd4823848fc38a3ddf21138ddf7e8c1df3d65159c34ca0b7e46b45"
+        }
+      ]
+    },
+    {
+      "kernel_id": 10027938,
+      "slug": "alexisbcook__exercise-intro-to-automl",
+      "author_username": "alexisbcook",
+      "author_display_name": "Alexis Cook",
+      "kaggle_url": "https://www.kaggle.com/code/alexisbcook/exercise-intro-to-automl",
+      "license": "Apache-2.0",
+      "title": "Exercise: Intro to AutoML",
+      "total_votes_at_collection": 13771,
+      "raw_versions_returned_by_kaggle": 14,
+      "valid_python_versions_count": 14,
+      "sampled_snapshots_count": 8,
+      "all_python_revisions": [
+        {
+          "version_number": 1,
+          "script_version_id": 35849278,
+          "date_created": "2020-06-10T04:05:55.113Z"
+        },
+        {
+          "version_number": 2,
+          "script_version_id": 35850045,
+          "date_created": "2020-06-10T04:23:01.427Z"
+        },
+        {
+          "version_number": 3,
+          "script_version_id": 35851519,
+          "date_created": "2020-06-10T04:55:17.853Z"
+        },
+        {
+          "version_number": 4,
+          "script_version_id": 35895136,
+          "date_created": "2020-06-10T16:03:56.893Z"
+        },
+        {
+          "version_number": 5,
+          "script_version_id": 37326841,
+          "date_created": "2020-06-24T13:27:17.663Z"
+        },
+        {
+          "version_number": 6,
+          "script_version_id": 43718629,
+          "date_created": "2020-09-29T19:03:54.790Z"
+        },
+        {
+          "version_number": 7,
+          "script_version_id": 43796331,
+          "date_created": "2020-10-01T00:04:09.977Z"
+        },
+        {
+          "version_number": 8,
+          "script_version_id": 43796403,
+          "date_created": "2020-10-01T00:06:29.203Z"
+        },
+        {
+          "version_number": 9,
+          "script_version_id": 43796457,
+          "date_created": "2020-10-01T00:08:05.710Z"
+        },
+        {
+          "version_number": 10,
+          "script_version_id": 64768675,
+          "date_created": "2021-06-03T16:31:53.663Z"
+        },
+        {
+          "version_number": 11,
+          "script_version_id": 64831737,
+          "date_created": "2021-06-04T13:12:48.350Z"
+        },
+        {
+          "version_number": 12,
+          "script_version_id": 74685912,
+          "date_created": "2021-09-13T20:04:37.343Z"
+        },
+        {
+          "version_number": 13,
+          "script_version_id": 79125606,
+          "date_created": "2021-11-09T00:01:36.397Z"
+        },
+        {
+          "version_number": 14,
+          "script_version_id": 126670626,
+          "date_created": "2023-04-21T13:39:01.397Z"
+        }
+      ],
+      "versions": [
+        {
+          "version_number": 1,
+          "script_version_id": 35849278,
+          "date_created": "2020-06-10T04:05:55.113Z",
+          "lines_total_kaggle": 122,
+          "lines_inserted_kaggle": 122,
+          "lines_deleted_kaggle": null,
+          "runtime_seconds": null,
+          "local_path": "notebooks/alexisbcook__exercise-intro-to-automl/v001_35849278.ipynb",
+          "sha256": "68f12f5386274bce9bbc5d2f03c1a8f5d10ddbe0153703d8d1cb236a18e9702a"
+        },
+        {
+          "version_number": 3,
+          "script_version_id": 35851519,
+          "date_created": "2020-06-10T04:55:17.853Z",
+          "lines_total_kaggle": 138,
+          "lines_inserted_kaggle": 16,
+          "lines_deleted_kaggle": null,
+          "runtime_seconds": null,
+          "local_path": "notebooks/alexisbcook__exercise-intro-to-automl/v003_35851519.ipynb",
+          "sha256": "a5c8c9c2aaed47a3c1c5a22cbb42809f55e7a881e6d99327bb58d3e18a828774"
+        },
+        {
+          "version_number": 5,
+          "script_version_id": 37326841,
+          "date_created": "2020-06-24T13:27:17.663Z",
+          "lines_total_kaggle": 147,
+          "lines_inserted_kaggle": 3,
+          "lines_deleted_kaggle": 3,
+          "runtime_seconds": null,
+          "local_path": "notebooks/alexisbcook__exercise-intro-to-automl/v005_37326841.ipynb",
+          "sha256": "f938eb9207fac25b7774fa4dcaca3ed69fa3e102b4e2edf1c4d6acc20d2045aa"
+        },
+        {
+          "version_number": 7,
+          "script_version_id": 43796331,
+          "date_created": "2020-10-01T00:04:09.977Z",
+          "lines_total_kaggle": 139,
+          "lines_inserted_kaggle": 2,
+          "lines_deleted_kaggle": 4,
+          "runtime_seconds": null,
+          "local_path": "notebooks/alexisbcook__exercise-intro-to-automl/v007_43796331.ipynb",
+          "sha256": "448845a798498d57c7f4d574aa443d9c6c99e5e363b4382cccefb2545c1d467a"
+        },
+        {
+          "version_number": 8,
+          "script_version_id": 43796403,
+          "date_created": "2020-10-01T00:06:29.203Z",
+          "lines_total_kaggle": 139,
+          "lines_inserted_kaggle": null,
+          "lines_deleted_kaggle": null,
+          "runtime_seconds": null,
+          "local_path": "notebooks/alexisbcook__exercise-intro-to-automl/v008_43796403.ipynb",
+          "sha256": "b6f3e495b99d4e10d58afbe7e726332afcb9d850b5852f59db71df029e91b95b"
+        },
+        {
+          "version_number": 10,
+          "script_version_id": 64768675,
+          "date_created": "2021-06-03T16:31:53.663Z",
+          "lines_total_kaggle": 139,
+          "lines_inserted_kaggle": 1,
+          "lines_deleted_kaggle": 1,
+          "runtime_seconds": null,
+          "local_path": "notebooks/alexisbcook__exercise-intro-to-automl/v010_64768675.ipynb",
+          "sha256": "15dfb17a53a18775d26af9e2f0daa1aae15e3324ec1747a6dbc752f65a6e909a"
+        },
+        {
+          "version_number": 12,
+          "script_version_id": 74685912,
+          "date_created": "2021-09-13T20:04:37.343Z",
+          "lines_total_kaggle": 132,
+          "lines_inserted_kaggle": 1,
+          "lines_deleted_kaggle": 8,
+          "runtime_seconds": null,
+          "local_path": "notebooks/alexisbcook__exercise-intro-to-automl/v012_74685912.ipynb",
+          "sha256": "7a38746ee21e7dc54317ce62f6868fd42de99d8eb1f1e9a6fb25a74ab31a45dc"
+        },
+        {
+          "version_number": 14,
+          "script_version_id": 126670626,
+          "date_created": "2023-04-21T13:39:01.397Z",
+          "lines_total_kaggle": 139,
+          "lines_inserted_kaggle": 5,
+          "lines_deleted_kaggle": 5,
+          "runtime_seconds": null,
+          "local_path": "notebooks/alexisbcook__exercise-intro-to-automl/v014_126670626.ipynb",
+          "sha256": "81e86188f247e9991f4e346ff9a177a9685b44f2ed3d675ae71611cce3e40f65"
+        }
+      ]
+    },
+    {
+      "kernel_id": 351100,
+      "slug": "dansbecker__handling-missing-values",
+      "author_username": "dansbecker",
+      "author_display_name": "DanB",
+      "kaggle_url": "https://www.kaggle.com/code/dansbecker/handling-missing-values",
+      "license": "Apache-2.0",
+      "title": "Handling Missing Values",
+      "total_votes_at_collection": 7892,
+      "raw_versions_returned_by_kaggle": 20,
+      "valid_python_versions_count": 20,
+      "sampled_snapshots_count": 8,
+      "all_python_revisions": [
+        {
+          "version_number": 1,
+          "script_version_id": 1470466,
+          "date_created": "2017-08-31T17:00:44.840Z"
+        },
+        {
+          "version_number": 2,
+          "script_version_id": 1470654,
+          "date_created": "2017-08-31T19:23:24.723Z"
+        },
+        {
+          "version_number": 3,
+          "script_version_id": 1470661,
+          "date_created": "2017-08-31T19:26:13.557Z"
+        },
+        {
+          "version_number": 4,
+          "script_version_id": 1470667,
+          "date_created": "2017-08-31T19:29:45.067Z"
+        },
+        {
+          "version_number": 5,
+          "script_version_id": 1543454,
+          "date_created": "2017-09-27T16:34:28.250Z"
+        },
+        {
+          "version_number": 6,
+          "script_version_id": 1544410,
+          "date_created": "2017-09-27T20:41:12.277Z"
+        },
+        {
+          "version_number": 7,
+          "script_version_id": 1648011,
+          "date_created": "2017-10-23T16:54:37.570Z"
+        },
+        {
+          "version_number": 8,
+          "script_version_id": 1650115,
+          "date_created": "2017-10-24T03:22:11.620Z"
+        },
+        {
+          "version_number": 9,
+          "script_version_id": 1659389,
+          "date_created": "2017-10-25T20:19:17.213Z"
+        },
+        {
+          "version_number": 10,
+          "script_version_id": 1673837,
+          "date_created": "2017-10-28T23:04:11.253Z"
+        },
+        {
+          "version_number": 11,
+          "script_version_id": 1681746,
+          "date_created": "2017-10-30T16:37:01.493Z"
+        },
+        {
+          "version_number": 12,
+          "script_version_id": 1779672,
+          "date_created": "2017-11-20T23:33:27.753Z"
+        },
+        {
+          "version_number": 13,
+          "script_version_id": 1790371,
+          "date_created": "2017-11-22T21:52:55.647Z"
+        },
+        {
+          "version_number": 14,
+          "script_version_id": 2205410,
+          "date_created": "2018-01-22T00:26:24.833Z"
+        },
+        {
+          "version_number": 15,
+          "script_version_id": 2205518,
+          "date_created": "2018-01-22T00:45:34.870Z"
+        },
+        {
+          "version_number": 16,
+          "script_version_id": 2221499,
+          "date_created": "2018-01-23T18:18:37.583Z"
+        },
+        {
+          "version_number": 17,
+          "script_version_id": 2270939,
+          "date_created": "2018-01-29T02:43:36.350Z"
+        },
+        {
+          "version_number": 18,
+          "script_version_id": 4764560,
+          "date_created": "2018-07-26T19:15:04.433Z"
+        },
+        {
+          "version_number": 19,
+          "script_version_id": 4764579,
+          "date_created": "2018-07-26T19:16:26.717Z"
+        },
+        {
+          "version_number": 20,
+          "script_version_id": 10917272,
+          "date_created": "2019-02-26T02:31:24.447Z"
+        }
+      ],
+      "versions": [
+        {
+          "version_number": 1,
+          "script_version_id": 1470466,
+          "date_created": "2017-08-31T17:00:44.840Z",
+          "lines_total_kaggle": 172,
+          "lines_inserted_kaggle": 172,
+          "lines_deleted_kaggle": null,
+          "runtime_seconds": null,
+          "local_path": "notebooks/dansbecker__handling-missing-values/v001_1470466.ipynb",
+          "sha256": "9cc31c5c68506d8b82f1cd8b115c741858aad37fa673a4136e2c91e94e61f6b0"
+        },
+        {
+          "version_number": 4,
+          "script_version_id": 1470667,
+          "date_created": "2017-08-31T19:29:45.067Z",
+          "lines_total_kaggle": 174,
+          "lines_inserted_kaggle": 2,
+          "lines_deleted_kaggle": null,
+          "runtime_seconds": null,
+          "local_path": "notebooks/dansbecker__handling-missing-values/v004_1470667.ipynb",
+          "sha256": "a87b5ba0c416310ff9c07ec7b6e511dae3a45b41c7944da0ade35a182ed1ecb9"
+        },
+        {
+          "version_number": 6,
+          "script_version_id": 1544410,
+          "date_created": "2017-09-27T20:41:12.277Z",
+          "lines_total_kaggle": 169,
+          "lines_inserted_kaggle": 5,
+          "lines_deleted_kaggle": 10,
+          "runtime_seconds": null,
+          "local_path": "notebooks/dansbecker__handling-missing-values/v006_1544410.ipynb",
+          "sha256": "e84b11a130037426ecfc9ca15753e411a0cb3a3f2954dfde9178608a8ce5c06d"
+        },
+        {
+          "version_number": 9,
+          "script_version_id": 1659389,
+          "date_created": "2017-10-25T20:19:17.213Z",
+          "lines_total_kaggle": 160,
+          "lines_inserted_kaggle": 2,
+          "lines_deleted_kaggle": null,
+          "runtime_seconds": null,
+          "local_path": "notebooks/dansbecker__handling-missing-values/v009_1659389.ipynb",
+          "sha256": "f1c667409397d86d902b65c602dd0bbd123fb0b1d2b1fa13d4d59834715d7f1f"
+        },
+        {
+          "version_number": 12,
+          "script_version_id": 1779672,
+          "date_created": "2017-11-20T23:33:27.753Z",
+          "lines_total_kaggle": 164,
+          "lines_inserted_kaggle": null,
+          "lines_deleted_kaggle": null,
+          "runtime_seconds": null,
+          "local_path": "notebooks/dansbecker__handling-missing-values/v012_1779672.ipynb",
+          "sha256": "f4a1644568effda2058d48beefaa0f57c7646984d33b9f2f42883a7a62ea3248"
+        },
+        {
+          "version_number": 15,
+          "script_version_id": 2205518,
+          "date_created": "2018-01-22T00:45:34.870Z",
+          "lines_total_kaggle": 164,
+          "lines_inserted_kaggle": 1,
+          "lines_deleted_kaggle": 1,
+          "runtime_seconds": null,
+          "local_path": "notebooks/dansbecker__handling-missing-values/v015_2205518.ipynb",
+          "sha256": "ca51032d4d378b687f47f553c22878bc382a042d42ae3b333c471593e31bfa69"
+        },
+        {
+          "version_number": 17,
+          "script_version_id": 2270939,
+          "date_created": "2018-01-29T02:43:36.350Z",
+          "lines_total_kaggle": 176,
+          "lines_inserted_kaggle": 2,
+          "lines_deleted_kaggle": null,
+          "runtime_seconds": null,
+          "local_path": "notebooks/dansbecker__handling-missing-values/v017_2270939.ipynb",
+          "sha256": "5eeddb042b7b5a5f501b2efe76cce1b85a887ef67d6499bf547e011bd357278b"
+        },
+        {
+          "version_number": 20,
+          "script_version_id": 10917272,
+          "date_created": "2019-02-26T02:31:24.447Z",
+          "lines_total_kaggle": 178,
+          "lines_inserted_kaggle": 1,
+          "lines_deleted_kaggle": 1,
+          "runtime_seconds": null,
+          "local_path": "notebooks/dansbecker__handling-missing-values/v020_10917272.ipynb",
+          "sha256": "acffafa69af212a7de4b2b721f2ac836c7cb727a7bf932299f1dae94aebf2663"
+        }
+      ]
+    },
+    {
+      "kernel_id": 14393928,
+      "slug": "ryanholbrook__feature-engineering-for-house-prices",
+      "author_username": "ryanholbrook",
+      "author_display_name": "Ryan Holbrook",
+      "kaggle_url": "https://www.kaggle.com/code/ryanholbrook/feature-engineering-for-house-prices",
+      "license": "Apache-2.0",
+      "title": "Feature Engineering for House Prices",
+      "total_votes_at_collection": 6719,
+      "raw_versions_returned_by_kaggle": 9,
+      "valid_python_versions_count": 9,
+      "sampled_snapshots_count": 8,
+      "all_python_revisions": [
+        {
+          "version_number": 1,
+          "script_version_id": 52475095,
+          "date_created": "2021-01-22T18:26:35.643Z"
+        },
+        {
+          "version_number": 2,
+          "script_version_id": 54013910,
+          "date_created": "2021-02-10T20:44:23.140Z"
+        },
+        {
+          "version_number": 3,
+          "script_version_id": 55061991,
+          "date_created": "2021-02-23T19:14:32.427Z"
+        },
+        {
+          "version_number": 4,
+          "script_version_id": 55900246,
+          "date_created": "2021-03-05T15:10:11.043Z"
+        },
+        {
+          "version_number": 5,
+          "script_version_id": 78174947,
+          "date_created": "2021-10-27T20:04:01.623Z"
+        },
+        {
+          "version_number": 6,
+          "script_version_id": 94830369,
+          "date_created": "2022-05-05T12:49:07.890Z"
+        },
+        {
+          "version_number": 7,
+          "script_version_id": 126282027,
+          "date_created": "2023-04-18T13:51:29.253Z"
+        },
+        {
+          "version_number": 8,
+          "script_version_id": 126574280,
+          "date_created": "2023-04-20T18:10:35.693Z"
+        },
+        {
+          "version_number": 9,
+          "script_version_id": 142057134,
+          "date_created": "2023-09-05T22:43:04.867Z"
+        }
+      ],
+      "versions": [
+        {
+          "version_number": 1,
+          "script_version_id": 52475095,
+          "date_created": "2021-01-22T18:26:35.643Z",
+          "lines_total_kaggle": 751,
+          "lines_inserted_kaggle": 751,
+          "lines_deleted_kaggle": null,
+          "runtime_seconds": null,
+          "local_path": "notebooks/ryanholbrook__feature-engineering-for-house-prices/v001_52475095.ipynb",
+          "sha256": "8c35b0ad5d835ae40d6c104fe5aa6babbdf96dc4ddb380f4b1ffca745bce4d4f"
+        },
+        {
+          "version_number": 2,
+          "script_version_id": 54013910,
+          "date_created": "2021-02-10T20:44:23.140Z",
+          "lines_total_kaggle": 735,
+          "lines_inserted_kaggle": 102,
+          "lines_deleted_kaggle": 118,
+          "runtime_seconds": null,
+          "local_path": "notebooks/ryanholbrook__feature-engineering-for-house-prices/v002_54013910.ipynb",
+          "sha256": "6339f2ee39208b0fec3519a9a3394ebfdb76c37ce4bb2c5fea3d1164bcc35792"
+        },
+        {
+          "version_number": 3,
+          "script_version_id": 55061991,
+          "date_created": "2021-02-23T19:14:32.427Z",
+          "lines_total_kaggle": 735,
+          "lines_inserted_kaggle": 2,
+          "lines_deleted_kaggle": 2,
+          "runtime_seconds": null,
+          "local_path": "notebooks/ryanholbrook__feature-engineering-for-house-prices/v003_55061991.ipynb",
+          "sha256": "6dc316794c528b624372d4d679f0225dede6fb0e08257d9105eead1cba065793"
+        },
+        {
+          "version_number": 4,
+          "script_version_id": 55900246,
+          "date_created": "2021-03-05T15:10:11.043Z",
+          "lines_total_kaggle": 728,
+          "lines_inserted_kaggle": 1,
+          "lines_deleted_kaggle": 8,
+          "runtime_seconds": null,
+          "local_path": "notebooks/ryanholbrook__feature-engineering-for-house-prices/v004_55900246.ipynb",
+          "sha256": "e41affabc632394e320561b26ba289b6310dc9fa3b6e8da184a9603894797a6b"
+        },
+        {
+          "version_number": 6,
+          "script_version_id": 94830369,
+          "date_created": "2022-05-05T12:49:07.890Z",
+          "lines_total_kaggle": 728,
+          "lines_inserted_kaggle": 7,
+          "lines_deleted_kaggle": null,
+          "runtime_seconds": null,
+          "local_path": "notebooks/ryanholbrook__feature-engineering-for-house-prices/v006_94830369.ipynb",
+          "sha256": "97cf857b03c538d9a10bc9aa9855592ed35aa85656b1b635e25020616eae0f21"
+        },
+        {
+          "version_number": 7,
+          "script_version_id": 126282027,
+          "date_created": "2023-04-18T13:51:29.253Z",
+          "lines_total_kaggle": 728,
+          "lines_inserted_kaggle": null,
+          "lines_deleted_kaggle": null,
+          "runtime_seconds": null,
+          "local_path": "notebooks/ryanholbrook__feature-engineering-for-house-prices/v007_126282027.ipynb",
+          "sha256": "6b7e6e69b71730c57a694ebb16d05fe92761944b8b2f59faa33761b05aa51377"
+        },
+        {
+          "version_number": 8,
+          "script_version_id": 126574280,
+          "date_created": "2023-04-20T18:10:35.693Z",
+          "lines_total_kaggle": 728,
+          "lines_inserted_kaggle": null,
+          "lines_deleted_kaggle": null,
+          "runtime_seconds": null,
+          "local_path": "notebooks/ryanholbrook__feature-engineering-for-house-prices/v008_126574280.ipynb",
+          "sha256": "6fabe6fd19f9f0b43bccf8d2fb2182d53524e57b8e87dad42014d55dcc392e3b"
+        },
+        {
+          "version_number": 9,
+          "script_version_id": 142057134,
+          "date_created": "2023-09-05T22:43:04.867Z",
+          "lines_total_kaggle": 728,
+          "lines_inserted_kaggle": 2,
+          "lines_deleted_kaggle": 2,
+          "runtime_seconds": null,
+          "local_path": "notebooks/ryanholbrook__feature-engineering-for-house-prices/v009_142057134.ipynb",
+          "sha256": "19c6842d16acced1d106e6bb0966b453cc6ed14284250450866fda169a2fa5d9"
+        }
+      ]
+    },
+    {
+      "kernel_id": 96093,
+      "slug": "apapiu__regularized-linear-models",
+      "author_username": "apapiu",
+      "author_display_name": "Alexandru Papiu",
+      "kaggle_url": "https://www.kaggle.com/code/apapiu/regularized-linear-models",
+      "license": "Apache-2.0",
+      "title": "Regularized Linear Models",
+      "total_votes_at_collection": 5523,
+      "raw_versions_returned_by_kaggle": 26,
+      "valid_python_versions_count": 26,
+      "sampled_snapshots_count": 8,
+      "all_python_revisions": [
+        {
+          "version_number": 1,
+          "script_version_id": 360050,
+          "date_created": "2016-09-11T22:22:50.320Z"
+        },
+        {
+          "version_number": 2,
+          "script_version_id": 360102,
+          "date_created": "2016-09-11T23:26:45.900Z"
+        },
+        {
+          "version_number": 3,
+          "script_version_id": 360103,
+          "date_created": "2016-09-11T23:27:30.713Z"
+        },
+        {
+          "version_number": 4,
+          "script_version_id": 360165,
+          "date_created": "2016-09-12T00:18:00.277Z"
+        },
+        {
+          "version_number": 5,
+          "script_version_id": 360183,
+          "date_created": "2016-09-12T00:32:26.570Z"
+        },
+        {
+          "version_number": 6,
+          "script_version_id": 360233,
+          "date_created": "2016-09-12T02:08:37.657Z"
+        },
+        {
+          "version_number": 7,
+          "script_version_id": 360275,
+          "date_created": "2016-09-12T04:05:52.360Z"
+        },
+        {
+          "version_number": 8,
+          "script_version_id": 360276,
+          "date_created": "2016-09-12T04:07:40.990Z"
+        },
+        {
+          "version_number": 9,
+          "script_version_id": 360279,
+          "date_created": "2016-09-12T04:20:58.877Z"
+        },
+        {
+          "version_number": 10,
+          "script_version_id": 360292,
+          "date_created": "2016-09-12T04:56:34.950Z"
+        },
+        {
+          "version_number": 11,
+          "script_version_id": 360294,
+          "date_created": "2016-09-12T05:03:51.463Z"
+        },
+        {
+          "version_number": 12,
+          "script_version_id": 360295,
+          "date_created": "2016-09-12T05:04:29.817Z"
+        },
+        {
+          "version_number": 13,
+          "script_version_id": 360374,
+          "date_created": "2016-09-12T06:59:12.710Z"
+        },
+        {
+          "version_number": 14,
+          "script_version_id": 360438,
+          "date_created": "2016-09-12T09:19:46.010Z"
+        },
+        {
+          "version_number": 15,
+          "script_version_id": 360449,
+          "date_created": "2016-09-12T09:27:13.597Z"
+        },
+        {
+          "version_number": 16,
+          "script_version_id": 372541,
+          "date_created": "2016-09-23T04:25:05.523Z"
+        },
+        {
+          "version_number": 17,
+          "script_version_id": 373120,
+          "date_created": "2016-09-23T18:44:02.013Z"
+        },
+        {
+          "version_number": 18,
+          "script_version_id": 377062,
+          "date_created": "2016-09-28T03:43:28.997Z"
+        },
+        {
+          "version_number": 19,
+          "script_version_id": 377068,
+          "date_created": "2016-09-28T04:02:28.390Z"
+        },
+        {
+          "version_number": 20,
+          "script_version_id": 421013,
+          "date_created": "2016-10-31T23:05:24.353Z"
+        },
+        {
+          "version_number": 21,
+          "script_version_id": 421014,
+          "date_created": "2016-10-31T23:11:19.720Z"
+        },
+        {
+          "version_number": 22,
+          "script_version_id": 573585,
+          "date_created": "2016-12-21T05:27:59.957Z"
+        },
+        {
+          "version_number": 23,
+          "script_version_id": 573627,
+          "date_created": "2016-12-21T05:42:11.437Z"
+        },
+        {
+          "version_number": 24,
+          "script_version_id": 1097183,
+          "date_created": "2017-04-21T05:50:08.587Z"
+        },
+        {
+          "version_number": 25,
+          "script_version_id": 115700096,
+          "date_created": "2023-01-07T02:38:04.887Z"
+        },
+        {
+          "version_number": 26,
+          "script_version_id": 115700226,
+          "date_created": "2023-01-07T02:41:50.987Z"
+        }
+      ],
+      "versions": [
+        {
+          "version_number": 1,
+          "script_version_id": 360050,
+          "date_created": "2016-09-11T22:22:50.320Z",
+          "lines_total_kaggle": 80,
+          "lines_inserted_kaggle": 80,
+          "lines_deleted_kaggle": null,
+          "runtime_seconds": null,
+          "local_path": "notebooks/apapiu__regularized-linear-models/v001_360050.ipynb",
+          "sha256": "245dafe992d0873946906787bb717b984a8b1fb7812d7f3599430d8e02f87117"
+        },
+        {
+          "version_number": 5,
+          "script_version_id": 360183,
+          "date_created": "2016-09-12T00:32:26.570Z",
+          "lines_total_kaggle": 97,
+          "lines_inserted_kaggle": 43,
+          "lines_deleted_kaggle": 15,
+          "runtime_seconds": null,
+          "local_path": "notebooks/apapiu__regularized-linear-models/v005_360183.ipynb",
+          "sha256": "6c73a72d794b9dcaa7d89985ff35bbcec1b7be33e81df8705db99a06ab255d98"
+        },
+        {
+          "version_number": 8,
+          "script_version_id": 360276,
+          "date_created": "2016-09-12T04:07:40.990Z",
+          "lines_total_kaggle": 117,
+          "lines_inserted_kaggle": 10,
+          "lines_deleted_kaggle": 5,
+          "runtime_seconds": null,
+          "local_path": "notebooks/apapiu__regularized-linear-models/v008_360276.ipynb",
+          "sha256": "a134697d714651cc68f0f3f6001cb1789cb02561c1ef83b4ec4b26a8edf1a8c5"
+        },
+        {
+          "version_number": 12,
+          "script_version_id": 360295,
+          "date_created": "2016-09-12T05:04:29.817Z",
+          "lines_total_kaggle": 107,
+          "lines_inserted_kaggle": null,
+          "lines_deleted_kaggle": null,
+          "runtime_seconds": null,
+          "local_path": "notebooks/apapiu__regularized-linear-models/v012_360295.ipynb",
+          "sha256": "ce24e346faf2c9c2b97a028a1d9a70bc649e9dfe01db04c009385e299f7419f3"
+        },
+        {
+          "version_number": 15,
+          "script_version_id": 360449,
+          "date_created": "2016-09-12T09:27:13.597Z",
+          "lines_total_kaggle": 125,
+          "lines_inserted_kaggle": 1,
+          "lines_deleted_kaggle": 2,
+          "runtime_seconds": null,
+          "local_path": "notebooks/apapiu__regularized-linear-models/v015_360449.ipynb",
+          "sha256": "0f4e41300e5e9f03e3d5da71f86d9ac270f11f3e29de91184ab637b1eb57f65e"
+        },
+        {
+          "version_number": 19,
+          "script_version_id": 377068,
+          "date_created": "2016-09-28T04:02:28.390Z",
+          "lines_total_kaggle": 152,
+          "lines_inserted_kaggle": 13,
+          "lines_deleted_kaggle": 3,
+          "runtime_seconds": null,
+          "local_path": "notebooks/apapiu__regularized-linear-models/v019_377068.ipynb",
+          "sha256": "b2be21d9ab05400d085e5d44fd3147f575a3c6417384d0de9a7f198a485fb88f"
+        },
+        {
+          "version_number": 22,
+          "script_version_id": 573585,
+          "date_created": "2016-12-21T05:27:59.957Z",
+          "lines_total_kaggle": 188,
+          "lines_inserted_kaggle": 6,
+          "lines_deleted_kaggle": 4,
+          "runtime_seconds": null,
+          "local_path": "notebooks/apapiu__regularized-linear-models/v022_573585.ipynb",
+          "sha256": "b946c75403a3bbacec1f59661e129ec5e42a4dbf502c79fb8b79a7d66c4ed432"
+        },
+        {
+          "version_number": 26,
+          "script_version_id": 115700226,
+          "date_created": "2023-01-07T02:41:50.987Z",
+          "lines_total_kaggle": 161,
+          "lines_inserted_kaggle": null,
+          "lines_deleted_kaggle": 30,
+          "runtime_seconds": null,
+          "local_path": "notebooks/apapiu__regularized-linear-models/v026_115700226.ipynb",
+          "sha256": "406a96a7c2665b8858c030ea2622d41fd5dc2087dfe6b1cc6f2b54db0accd967"
+        }
+      ]
+    }
+  ]
+}
