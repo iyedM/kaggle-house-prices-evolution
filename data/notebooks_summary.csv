@@ -1,0 +1,7 @@
+slug,title,raw_versions_kaggle,valid_python_versions,sampled_snapshots,avg_version_gap,initial_code_lines,final_code_lines,initial_markdown_lines,final_markdown_lines,avg_lines_changed_between_snapshots,max_lines_changed_between_snapshots,median_hours_consecutive_revisions,detected_ml_libraries_final
+pmarcelino__comprehensive-data-exploration-with-python,Comprehensive data exploration with Python,80,80,8,11.29,96,96,4,171,0.9,6,168.25,"matplotlib,numpy,pandas,scipy,seaborn,sklearn"
+serigne__stacked-regressions-top-4-on-leaderboard,Stacked Regressions : Top 4% on LeaderBoard,60,60,8,8.43,250,254,108,143,20.9,41,0.72,"lightgbm,matplotlib,numpy,pandas,scipy,seaborn,sklearn,xgboost"
+alexisbcook__exercise-intro-to-automl,Exercise: Intro to AutoML,14,14,8,1.86,21,21,54,64,1.4,5,29.0,
+dansbecker__handling-missing-values,Handling Missing Values,20,20,8,2.71,49,45,68,76,2.3,7,41.55,"pandas,sklearn"
+ryanholbrook__feature-engineering-for-house-prices,Feature Engineering for House Prices,9,9,8,1.14,351,336,136,132,6.4,33,1887.42,"matplotlib,numpy,pandas,seaborn,sklearn,xgboost"
+apapiu__regularized-linear-models,Regularized Linear Models,26,26,8,3.57,43,70,2,25,21.9,48,0.84,"matplotlib,numpy,pandas,scipy,seaborn,sklearn,xgboost"
