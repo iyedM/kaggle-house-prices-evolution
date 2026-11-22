@@ -1,5 +1,7 @@
 .venv/
 .git/
 __pycache__/
+.pytest_cache/
 *.pyc
 figures/*.png
+tests/
